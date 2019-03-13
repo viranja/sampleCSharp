@@ -5,3 +5,5 @@ D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.Properties.Reso
 D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.csproj.GenerateResource.Cache
 D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.exe
 D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.exe
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.pdb
