@@ -1,0 +1,7 @@
+D:\Viranja\Samples\LoggerTesting\Dashboad\bin\Debug\Dashboad.exe
+D:\Viranja\Samples\LoggerTesting\Dashboad\bin\Debug\Dashboad.pdb
+D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.Form1.resources
+D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.Properties.Resources.resources
+D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.csproj.GenerateResource.Cache
+D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.exe
+D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.pdb

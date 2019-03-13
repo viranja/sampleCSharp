@@ -1,0 +1,10 @@
+D:\Viranja\Samples\LoggerTesting\Desktop Client\bin\Debug\Desktop Client.exe
+D:\Viranja\Samples\LoggerTesting\Desktop Client\bin\Debug\Desktop Client.pdb
+D:\Viranja\Samples\LoggerTesting\Desktop Client\bin\Debug\Models.dll
+D:\Viranja\Samples\LoggerTesting\Desktop Client\bin\Debug\Models.pdb
+D:\Viranja\Samples\LoggerTesting\Desktop Client\obj\x86\Debug\Desktop_Client.Form1.resources
+D:\Viranja\Samples\LoggerTesting\Desktop Client\obj\x86\Debug\Desktop_Client.Properties.Resources.resources
+D:\Viranja\Samples\LoggerTesting\Desktop Client\obj\x86\Debug\Desktop Client.csproj.GenerateResource.Cache
+D:\Viranja\Samples\LoggerTesting\Desktop Client\obj\x86\Debug\Desktop Client.exe
+D:\Viranja\Samples\LoggerTesting\Desktop Client\obj\x86\Debug\Desktop Client.pdb
+D:\Viranja\Samples\LoggerTesting\Desktop Client\obj\x86\Debug\Desktop Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Viranja\Samples\LoggerTesting\sLog\bin\Debug\sLog.dll
+D:\Viranja\Samples\LoggerTesting\sLog\bin\Debug\sLog.pdb
+D:\Viranja\Samples\LoggerTesting\sLog\obj\Debug\sLog.dll
+D:\Viranja\Samples\LoggerTesting\sLog\obj\Debug\sLog.pdb

@@ -1,0 +1,4 @@
+D:\Viranja\Samples\LoggerTesting\tcpClient\bin\Debug\tcpClient.dll
+D:\Viranja\Samples\LoggerTesting\tcpClient\bin\Debug\tcpClient.pdb
+D:\Viranja\Samples\LoggerTesting\tcpClient\obj\Debug\tcpClient.dll
+D:\Viranja\Samples\LoggerTesting\tcpClient\obj\Debug\tcpClient.pdb

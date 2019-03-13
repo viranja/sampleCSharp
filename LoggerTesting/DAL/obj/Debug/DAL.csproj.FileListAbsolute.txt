@@ -1,0 +1,4 @@
+D:\Viranja\Samples\LoggerTesting\DAL\bin\Debug\DAL.dll
+D:\Viranja\Samples\LoggerTesting\DAL\bin\Debug\DAL.pdb
+D:\Viranja\Samples\LoggerTesting\DAL\obj\Debug\DAL.dll
+D:\Viranja\Samples\LoggerTesting\DAL\obj\Debug\DAL.pdb

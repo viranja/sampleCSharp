@@ -1,0 +1,7 @@
+D:\Viranja\Samples\LoggerTesting\CustomerMessageBox\bin\Debug\CustomerMessageBox.dll
+D:\Viranja\Samples\LoggerTesting\CustomerMessageBox\bin\Debug\CustomerMessageBox.pdb
+D:\Viranja\Samples\LoggerTesting\CustomerMessageBox\obj\Debug\CustomerMessageBox.MessageForm.resources
+D:\Viranja\Samples\LoggerTesting\CustomerMessageBox\obj\Debug\CustomerMessageBox.csproj.GenerateResource.Cache
+D:\Viranja\Samples\LoggerTesting\CustomerMessageBox\obj\Debug\CustomerMessageBox.dll
+D:\Viranja\Samples\LoggerTesting\CustomerMessageBox\obj\Debug\CustomerMessageBox.pdb
+D:\Viranja\Samples\LoggerTesting\CustomerMessageBox\obj\Debug\CustomerMessageBox.csprojResolveAssemblyReference.cache

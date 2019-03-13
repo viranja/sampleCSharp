@@ -1,0 +1,4 @@
+D:\Viranja\Samples\LoggerTesting\BackgrundProcess\bin\Debug\BackgrundProcess.dll
+D:\Viranja\Samples\LoggerTesting\BackgrundProcess\bin\Debug\BackgrundProcess.pdb
+D:\Viranja\Samples\LoggerTesting\BackgrundProcess\obj\Debug\BackgrundProcess.dll
+D:\Viranja\Samples\LoggerTesting\BackgrundProcess\obj\Debug\BackgrundProcess.pdb
