@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashboad", "Dashboad\Dashbo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaces", "interfaces\interfaces.csproj", "{2A875E89-82E7-4AD0-B74C-87B670D9EF01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUpdate", "ImageUpdate\ImageUpdate.csproj", "{572275D8-D536-4FF1-9404-896B412211AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,16 @@ Global
 		{2A875E89-82E7-4AD0-B74C-87B670D9EF01}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{2A875E89-82E7-4AD0-B74C-87B670D9EF01}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{2A875E89-82E7-4AD0-B74C-87B670D9EF01}.Release|x86.ActiveCfg = Release|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{572275D8-D536-4FF1-9404-896B412211AC}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,3 +8,13 @@ D:\Viranja\Samples\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.Prope
 D:\Viranja\Samples\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.csproj.GenerateResource.Cache
 D:\Viranja\Samples\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.exe
 D:\Viranja\Samples\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\bin\Debug\LoggerTesting.exe
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\bin\Debug\LoggerTesting.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\bin\Debug\sLog.dll
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\bin\Debug\sLog.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.csprojResolveAssemblyReference.cache
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.Form1.resources
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.Properties.Resources.resources
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.csproj.GenerateResource.Cache
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.exe
+D:\Viranja\Samples\git\sample\LoggerTesting\LoggerTesting\obj\x86\Debug\LoggerTesting.pdb

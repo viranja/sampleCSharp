@@ -7,3 +7,11 @@ D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.exe
 D:\Viranja\Samples\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.pdb
 D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.exe
 D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\bin\Debug\Dashboad.exe
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\bin\Debug\Dashboad.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\bin\Debug\ImageUpdate.dll
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\bin\Debug\ImageUpdate.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.csprojResolveAssemblyReference.cache
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.Form1.resources
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.Properties.Resources.resources
+D:\Viranja\Samples\git\sample\LoggerTesting\Dashboad\obj\x86\Debug\Dashboad.csproj.GenerateResource.Cache

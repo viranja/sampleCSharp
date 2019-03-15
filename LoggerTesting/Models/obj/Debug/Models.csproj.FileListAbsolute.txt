@@ -3,3 +3,8 @@ D:\Viranja\Samples\LoggerTesting\Models\bin\Debug\Models.pdb
 D:\Viranja\Samples\LoggerTesting\Models\obj\Debug\Models.dll
 D:\Viranja\Samples\LoggerTesting\Models\obj\Debug\Models.pdb
 D:\Viranja\Samples\LoggerTesting\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Viranja\Samples\git\sample\LoggerTesting\Models\bin\Debug\Models.dll
+D:\Viranja\Samples\git\sample\LoggerTesting\Models\bin\Debug\Models.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Viranja\Samples\git\sample\LoggerTesting\Models\obj\Debug\Models.dll
+D:\Viranja\Samples\git\sample\LoggerTesting\Models\obj\Debug\Models.pdb

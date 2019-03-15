@@ -1,0 +1,4 @@
+D:\Viranja\Samples\git\sample\LoggerTesting\ImageUpdate\bin\Debug\ImageUpdate.dll
+D:\Viranja\Samples\git\sample\LoggerTesting\ImageUpdate\bin\Debug\ImageUpdate.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\ImageUpdate\obj\Debug\ImageUpdate.dll
+D:\Viranja\Samples\git\sample\LoggerTesting\ImageUpdate\obj\Debug\ImageUpdate.pdb

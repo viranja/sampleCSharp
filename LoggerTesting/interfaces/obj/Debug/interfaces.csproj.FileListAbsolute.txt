@@ -1,0 +1,4 @@
+D:\Viranja\Samples\git\sample\LoggerTesting\interfaces\bin\Debug\interfaces.dll
+D:\Viranja\Samples\git\sample\LoggerTesting\interfaces\bin\Debug\interfaces.pdb
+D:\Viranja\Samples\git\sample\LoggerTesting\interfaces\obj\Debug\interfaces.dll
+D:\Viranja\Samples\git\sample\LoggerTesting\interfaces\obj\Debug\interfaces.pdb

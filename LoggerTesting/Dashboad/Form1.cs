@@ -33,8 +33,11 @@ namespace Dashboad
         private void button1_Click(object sender, EventArgs e)
         {
            click();
-
+            
             MessageBox.Show("alert");
+
+            ImageUpdate.ImageFile imgFile = new ImageUpdate.ImageFile();
+            imgFile.Save("D:/Viranja/Samples/git/sample/LoggerTesting/Dashboad/images/download.jpg");
         }
     }
 }
